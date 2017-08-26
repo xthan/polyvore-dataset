@@ -47,6 +47,8 @@ Each JSON item has the following information:
     }
     
 
+If you do not want to download all these images using their urls, you can download them via [Google Drive] (https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0). This file contains the images of 33,375 outfits, which include all 21,889 outfits in polyvore dataset. The other ~11k outfits are uploaded more than 3 years ago. We are afraid that they are out-of-fashion so we do not use them).
+
 #### Fill-in-the-blank Fashion Recommendation
 
 fill_in_the_blank_test.json contains the questions used to evaluate in the fill-in-the-blank fashion recommendation task. It follows the following format:
@@ -74,14 +76,14 @@ In each line the first number indicating the compatibility (1 is compatible, 0 i
 0. We delete the fashion items with non-fashion "categoryid" such as background, texts, decorations. As a result, the indices of items in an outfit may not be consecutive.
 
 
-### Citations
+### Citation
 
 If this dataset helps your research, please cite our paper:
 
     @inproceedings{han2017learning,
-      author = {"Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang and Davis, Larry S"},
+      author = {Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang and Davis, Larry S},
       title = {Learning Fashion Compatibility with Bidirectional LSTMs},
-      booktitle = "ACM Multimedia",
+      booktitle = {ACM Multimedia},
       year  = {2017},
     }
 
