@@ -47,7 +47,7 @@ Each JSON item has the following information:
     }
     
 
-If you do not want to download all these images using their urls, you can download them via [Google Drive] (https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0). This file contains the images of 33,375 outfits, which include all 21,889 outfits in polyvore dataset. The other ~11k outfits are uploaded more than 3 years ago. We are afraid that they are out-of-fashion so we do not use them).
+If you do not want to download all these images using their urls, you can download them via [Google Drive](https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0). This file contains the images of 33,375 outfits, which include all 21,889 outfits in polyvore dataset. The other ~11k outfits are uploaded more than 3 years ago. We are afraid that they are out-of-fashion so we do not use them).
 
 #### Fill-in-the-blank Fashion Recommendation
 
