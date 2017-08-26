@@ -1,6 +1,8 @@
 ## Polyvore Dataset
 Dataset used in ACM MM'17 paper "Learning Fashion Compatibility with Bidirectional LSTMs" [[paper]](https://arxiv.org/pdf/1707.05691.pdf).
 
+This dataset is also available on [Google Drive](https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0).
+
 ### Contact
 Author: Xintong Han
 
