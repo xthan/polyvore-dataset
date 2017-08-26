@@ -78,11 +78,11 @@ In each line the first number indicating the compatibility (1 is compatible, 0 i
 
 If this dataset helps your research, please cite our paper:
 
-    @InProceedings{han2017learning,
+    @inproceedings{han2017learning,
       author = {"Han, Xintong and Wu, Zuxuan and Jiang, Yu-Gang and Davis, Larry S"},
-      Title = {Learning Fashion Compatibility with Bidirectional LSTMs},
-      Booktitle = "ACM Multimedia 2017",
-      Year  = {2017},
+      title = {Learning Fashion Compatibility with Bidirectional LSTMs},
+      booktitle = "ACM Multimedia",
+      year  = {2017},
     }
 
 ### Other Datasets from Polyvore.com
