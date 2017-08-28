@@ -61,7 +61,7 @@ fill_in_the_blank_test.json contains the questions used to evaluate in the fill-
         "blank_position": The blank position to be filled in.
     },
     
-The name of a fashion item is SetID_ItemIndex, _e.g._, 119704139_1 is the fashion item with "index" 1 in the outfit with "set_id" 119704139.
+The name of a fashion item is SetID_ItemIndex, _e.g._, 119704139_1 is the fashion item with "index" 1 in the outfit with "set_id" 119704139. The first answer in "answers" is the correct one (_i.e.,_ original fashion item in the outfit). 
 
 
 #### Fashion Compatibility Prediction
