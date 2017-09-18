@@ -95,4 +95,6 @@ There are several datasets crawled from Polyvore.com:
 
 0. The Elements of Fashion Style. [[paper]](http://ranjithakumar.net/resources/vaccaro-uist2016-fashion.pdf) [[dataset]](https://github.com/kristenvaccaro/fashion-data)
 
-1. Mining Fashion Outfit Composition Using An End-to-End Deep Learning Approach on Set Data. [[paper]](https://arxiv.org/pdf/1608.03016.pdf) [[dataset]](https://github.com/raingo/outfit)
+0. Mining Fashion Outfit Composition Using An End-to-End Deep Learning Approach on Set Data. [[paper]](https://arxiv.org/pdf/1608.03016.pdf) [[dataset]](https://github.com/raingo/outfit)
+
+0. NeuroStylist: Neural Compatibility Modeling for Clothing Matching. [[paper]](https://drive.google.com/file/d/0B9ef99fUwsVZbjIxNUlKTFZMWUU/view) [[dataset]](http://neurostylist.farbox.com/)
