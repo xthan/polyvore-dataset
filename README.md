@@ -53,6 +53,8 @@ Each JSON item has the following information:
 
 If you do not want to download all these images using their urls, they are in polyvore-images.tar.gz on [Google Drive](https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0). This file contains the images of 33,375 outfits, which include all 21,889 outfits in polyvore dataset. The other ~11k outfits are uploaded more than 3 years ago. We are afraid that they are out-of-fashion so we do not use them).
 
+[category_id.txt](https://github.com/xthan/polyvore-dataset/blob/master/category_id.txt) contains the maping between category ID and category name. Thanks [Zhenyu](https://github.com/zyyang) for providing it!
+
 #### Fill-in-the-blank Fashion Recommendation
 
 fill_in_the_blank_test.json contains the questions used to evaluate in the fill-in-the-blank fashion recommendation task. It follows the following format:
