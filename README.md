@@ -4,6 +4,9 @@ Dataset used in ACM MM'17 paper "Learning Fashion Compatibility with Bidirection
 This dataset is also available on [Google Drive](https://drive.google.com/drive/folders/0B4Eo9mft9jwoVDNEWlhEbUNUSE0?resourcekey=0-vQg9TMSLKnmPCuuWwl5Ebw&usp=sharing).
 Original Images can also be downloaded: [polyvore-images.tar.gz](https://drive.google.com/file/d/0B4Eo9mft9jwoNm5WR3ltVkJWX0k/view?usp=sharing&resourcekey=0-U-30d1POF7IlnAE5bzOzPA).
 
+**A clean version of this dataset can be found:** [**Cleaned Maryland**](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-maryland.md.)
+
+You may be interested in a new dataset [A100 dataset](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/A100.md), which measures the aesthetic ability of an AI model.
 
 ### Contact
 Author: Xintong Han
@@ -102,3 +105,7 @@ There are several datasets crawled from Polyvore.com:
 0. Mining Fashion Outfit Composition Using An End-to-End Deep Learning Approach on Set Data. [[paper]](https://arxiv.org/pdf/1608.03016.pdf) [[dataset]](https://github.com/raingo/outfit)
 
 0. NeuroStylist: Neural Compatibility Modeling for Clothing Matching. [[paper]](https://drive.google.com/file/d/0B9ef99fUwsVZbjIxNUlKTFZMWUU/view) [[dataset]](http://neurostylist.farbox.com/)
+
+0. Learning Type-Aware Embeddings for Fashion Compatibility. [[paper]](https://arxiv.org/pdf/1803.09196.pdf)[[dataset]](https://github.com/mvasil/fashion-compatibility)[[cleaned dataset]](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/cleaned-type.md)
+
+0. How Good Is Aesthetic Ability of a Fashion Model? [[paper]](https://openaccess.thecvf.com/content/CVPR2022/papers/Zou_How_Good_Is_Aesthetic_Ability_of_a_Fashion_Model_CVPR_2022_paper.pdf)[[dataset]](https://github.com/AemikaChow/AiDLab-fAshIon-Data/blob/main/Datasets/A100.md)
